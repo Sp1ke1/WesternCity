@@ -1,0 +1,100 @@
+skybox 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+1.0 1.0 1.0 
+cube.obj
+
+Carriage 
+4.5 0.05 -2.5 
+15.0 0.0 0.0 
+0.15 0.15 0.15
+carriage.obj
+
+Water
+6.0 0.3 -1.6 
+0.0 105.0 0.0
+0.2 0.4 0.55
+waterplane.obj
+
+ThroughWater
+6.0 0.0 -1.6
+0.0 15.0 0.0
+0.4 0.4 0.4 
+waterthrough.obj
+
+House
+0.0 0.0 4.0
+0.0 0.0 0.0
+1.0 1.0 1.0
+western_house.obj
+
+WatchTower
+3.0 0.0 10.0 
+0.0 -30.0 0.0 
+0.04 0.04 0.04 
+watchtower.obj
+
+Barrel1 
+3.0 0.4 9.0 
+0.0 0.0 0.0  
+0.3 0.3 0.3 
+barrel.obj
+
+Barrel2 
+2.5 0.4 7.5 
+0.0 0.0 0.0  
+0.3 0.3 0.3 
+barrel.obj
+
+Chest
+4.0 0.0 -0.5 
+0.0 0.0 0.0 
+0.2 0.2 0.2
+chest.obj
+
+Chest_Top
+4.0 0.4 -0.5
+0.0 90.0 0.0 
+0.2 0.2 0.2 
+chest_top.obj
+
+Revolver
+4.5 0.35 -0.1 
+0.0 0.0 80.0 
+0.1 0.1 0.1
+revolver.obj
+
+Church
+0.0 0.0 1
+0.0 0.0 0.0
+1.0 1.0 1.0 
+old_wooden_church.obj 
+
+Church1
+8.0 0.0 1
+0.0 180.0 0.0
+1.0 1.0 1.0 
+old_wooden_church.obj 
+
+House1
+8.0 0.0 4.0
+0.0 180.0 0.0
+1.0 1.0 1.0
+western_house.obj
+
+muzzle_flash
+0.0 0.0 0.0
+0.0 0.0 0.0
+3.0 3.0 3.0 
+muzzle_flash_plane.obj
+
+
+floor
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+50.0 50.0 50.0
+testplane.obj
+
+
+
+

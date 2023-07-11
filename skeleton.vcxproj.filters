@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\Application.cpp" />
+    <ClCompile Include="src\Scene.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\InputHandler.cpp" />
+    <ClCompile Include="src\Texture.cpp" />
+    <ClCompile Include="src\Material.cpp" />
+    <ClCompile Include="src\Shader.cpp" />
+    <ClCompile Include="src\MeshGeometry.cpp" />
+    <ClCompile Include="src\GameObject.cpp" />
+    <ClCompile Include="src\Config.cpp" />
+    <ClCompile Include="src\Mesh.cpp" />
+    <ClCompile Include="src\Camera.cpp" />
+    <ClCompile Include="src\FunctionLibrary.cpp" />
+    <ClCompile Include="src\SceneObject.cpp" />
+    <ClCompile Include="src\Eagle.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Application.h" />
+    <ClInclude Include="src\Scene.h" />
+    <ClInclude Include="src\InputHandler.h" />
+    <ClInclude Include="src\Texture.h" />
+    <ClInclude Include="src\Material.h" />
+    <ClInclude Include="src\Shader.h" />
+    <ClInclude Include="src\MeshGeometry.h" />
+    <ClInclude Include="src\GameObject.h" />
+    <ClInclude Include="src\Config.h" />
+    <ClInclude Include="src\Mesh.h" />
+    <ClInclude Include="src\Camera.h" />
+    <ClInclude Include="src\Misc.h" />
+    <ClInclude Include="src\FunctionLibrary.h" />
+    <ClInclude Include="resources\data\data.h" />
+    <ClInclude Include="src\SceneObject.h" />
+    <ClInclude Include="src\Eagle.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\shaders\fragment.glsl" />
+    <None Include="src\shaders\muzzle_flash_fragment.glsl" />
+    <None Include="src\shaders\muzzle_flash_vertex.glsl" />
+    <None Include="src\shaders\vertex.glsl" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+Debug/*
+Release/*
+doxygen/*
+x64/*
+*.vcxproj*
