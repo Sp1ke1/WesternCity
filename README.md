@@ -16,3 +16,6 @@ Of the interesting things, the project supports adding models through a map file
 - 1,2,3,4 - Switch cameras
 - C - Toggle spotlight
 - V - Toggle point lights
+
+## Note
+Unfortunately, the CTU Graphics Programming Framework DLL is required to build and run the application, which I cannot provide due to privacy policy.
